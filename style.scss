@@ -1,0 +1,24 @@
+
+
+
+
+
+$primary:#326dee;   
+$secondary: #1ac888;
+$error:#d32752;
+$info:#f6c312;
+
+h1{
+    color:$primary;
+}
+
+a{
+    color:$secondary
+}
+
+.button{
+    background-color: $info;
+}
+.error{
+    color:$error;
+}
